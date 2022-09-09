@@ -1,5 +1,5 @@
 Technologies used:
-1. HTML, CSS
+1. HTML, CSS, Java
 2. Springboot, Spring MVC, View Controllers.
 3. Filehandling methods
 4. SQL
